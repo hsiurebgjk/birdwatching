@@ -1,0 +1,1140 @@
+[
+    {
+        "name": "Pheasant",
+        "scientificName": "Phasianus colchicus",
+        "teReoName": "",
+        "origin": "European introduction",
+        "rarity": "Common",
+        "size": {
+            "type": "gendered",
+            "male": {
+                "type": "value",
+                "value": 80
+            },
+            "female": {
+                "type": "value",
+                "value": 60
+            }
+        },
+        "weight": {
+            "type": "gendered",
+            "male": {
+                "type": "value",
+                "value": 1400
+            },
+            "female": {
+                "type": "value",
+                "value": 1200
+            }
+        }
+    },
+    {
+        "name": "California Quail",
+        "scientificName": "Callipepla californica",
+        "teReoName": "",
+        "origin": "North American introduction",
+        "rarity": "Common",
+        "size": {
+            "type": "value",
+            "value": 250
+        },
+        "weight": {
+            "type": "value",
+            "value": 180
+        }
+    },
+    {
+        "name": "Black Swan",
+        "scientificName": "Cygnus atratus",
+        "teReoName": "",
+        "origin": "Australian introduction",
+        "rarity": "Common",
+        "size": {
+            "type": "value",
+            "value": 120
+        },
+        "weight": {
+            "type": "gendered",
+            "male": {
+                "type": "value",
+                "value": 6000
+            },
+            "female": {
+                "type": "value",
+                "value": 5000
+            }
+        }
+    },
+    {
+        "name": "Canada Goose",
+        "scientificName": "Branta canadensis",
+        "teReoName": "",
+        "origin": "Australian introduction",
+        "rarity": "Common",
+        "size": {
+            "type": "value",
+            "value": 83
+        },
+        "weight": {
+            "type": "gendered",
+            "male": {
+                "type": "value",
+                "value": 5400
+            },
+            "female": {
+                "type": "value",
+                "value": 4500
+            }
+        }
+    },
+    {
+        "name": "Feral Goose",
+        "scientificName": "Anser Anser",
+        "teReoName": "",
+        "origin": "European introduction",
+        "rarity": "Common",
+        "size": {
+            "type": "value",
+            "value": 80
+        },
+        "weight": {
+            "type": "value",
+            "value": 3000
+        }
+    },
+    {
+        "name": "Paradise Shelduck",
+        "scientificName": "Tadorna variegata",
+        "teReoName": "Putangitangi",
+        "origin": "Endemic",
+        "rarity": "Common",
+        "size": {
+            "type": "value",
+            "value": 63
+        },
+        "weight": {
+            "type": "gendered",
+            "male": {
+                "type": "value",
+                "value": 1700
+            },
+            "female": {
+                "type": "value",
+                "value": 1400
+            }
+        }
+    },
+    {
+        "name": "Grey Teal",
+        "scientificName": "Anas gracilis",
+        "teReoName": "Tete",
+        "origin": "Native",
+        "rarity": "Common",
+        "size": {
+            "type": "value",
+            "value": 43
+        },
+        "weight": {
+            "type": "gendered",
+            "male": {
+                "type": "value",
+                "value": 505
+            },
+            "female": {
+                "type": "value",
+                "value": 470
+            }
+        }
+    },
+    {
+        "name": "Brown Teal",
+        "scientificName": "Anas chlorotis",
+        "teReoName": "Pateke",
+        "origin": "Endemic",
+        "rarity": "Rare",
+        "size": {
+            "type": "value",
+            "value": 48
+        },
+        "weight": {
+            "type": "gendered",
+            "male": {
+                "type": "value",
+                "value": 650
+            },
+            "female": {
+                "type": "value",
+                "value": 580
+            }
+        }
+    },
+    {
+        "name": "New Zealand Scaup",
+        "scientificName": "Aythya novaeseelandia",
+        "teReoName": "Papango",
+        "origin": "Endemic",
+        "rarity": "Locally common",
+        "size": {
+            "type": "value",
+            "value": 40
+        },
+        "weight": {
+            "type": "gendered",
+            "male": {
+                "type": "value",
+                "value": 700
+            },
+            "female": {
+                "type": "value",
+                "value": 600
+            }
+        }
+    },
+    {
+        "name": "Mallard",
+        "scientificName": "Anas platyrhynchos",
+        "teReoName": "",
+        "origin": "European introduction",
+        "rarity": "Abundant",
+        "size": {
+            "type": "value",
+            "value": 58
+        },
+        "weight": {
+            "type": "gendered",
+            "male": {
+                "type": "value",
+                "value": 1300
+            },
+            "female": {
+                "type": "value",
+                "value": 1100
+            }
+        }
+    },
+    {
+        "name": "Australasian Shoveler",
+        "scientificName": "Anas rhynchotis",
+        "teReoName": "Kuruwhengi",
+        "origin": "Native",
+        "rarity": "Common",
+        "size": {
+            "type": "value",
+            "value": 49
+        },
+        "weight": {
+            "type": "gendered",
+            "male": {
+                "type": "value",
+                "value": 650
+            },
+            "female": {
+                "type": "value",
+                "value": 600
+            }
+        }
+    },
+    {
+        "name": "New Zealand Dabchick",
+        "scientificName": "Poliocephalus rufopectus",
+        "teReoName": "Weweia",
+        "origin": "Endemic",
+        "rarity": "Locally common",
+        "size": {
+            "type": "value",
+            "value": 29
+        },
+        "weight": {
+            "type": "value",
+            "value": 250
+        }
+    },
+    {
+        "name": "Australasian Gannet",
+        "scientificName": "Morus Serrator",
+        "teReoName": "Takapu",
+        "origin": "Native",
+        "rarity": "Common",
+        "size": {
+            "type": "value",
+            "value": 89
+        },
+        "weight": {
+            "type": "value",
+            "value": 2300
+        }
+    },
+    {
+        "name": "Black Shag",
+        "scientificName": "Phalacrocorax carbo",
+        "teReoName": "Kawau",
+        "origin": "Native",
+        "rarity": "Common",
+        "size": {
+            "type": "value",
+            "value": 88
+        },
+        "weight": {
+            "type": "gendered",
+            "male": {
+                "type": "value",
+                "value": 2500
+            },
+            "female": {
+                "type": "value",
+                "value": 1900
+            }
+        }
+    },
+    {
+        "name": "Pied Shag",
+        "scientificName": "Phalacrocorax varius",
+        "teReoName": "Karuhiruhi",
+        "origin": "Native",
+        "rarity": "Locally common",
+        "size": {
+            "type": "value",
+            "value": 81
+        },
+        "weight": {
+            "type": "gendered",
+            "male": {
+                "type": "value",
+                "value": 2200
+            },
+            "female": {
+                "type": "value",
+                "value": 1700
+            }
+        }
+    },
+    {
+        "name": "White-Faced Heron",
+        "scientificName": "Egretta novaehollandiae",
+        "teReoName": "Matuku moana",
+        "origin": "Native",
+        "rarity": "Abundant",
+        "size": {
+            "type": "value",
+            "value": 67
+        },
+        "weight": {
+            "type": "value",
+            "value": 550
+        }
+    },
+    {
+        "name": "Reef Heron",
+        "scientificName": "Egretta sacra",
+        "teReoName": "Matuku nuia",
+        "origin": "Native",
+        "rarity": "Uncommon",
+        "size": {
+            "type": "value",
+            "value": 66
+        },
+        "weight": {
+            "type": "value",
+            "value": 400
+        }
+    },
+    {
+        "name": "Royal Spoonbill",
+        "scientificName": "Platalea regia",
+        "teReoName": "",
+        "origin": "Native",
+        "rarity": "Common",
+        "size": {
+            "type": "value",
+            "value": 77
+        },
+        "weight": {
+            "type": "value",
+            "value": 1700
+        }
+    },
+    {
+        "name": "Swamp Harrier",
+        "scientificName": "Circus approximans",
+        "teReoName": "Kahu",
+        "origin": "Native",
+        "rarity": "Abundant",
+        "size": {
+            "type": "gendered",
+            "male": {
+                "type": "value",
+                "value": 55
+            },
+            "female": {
+                "type": "value",
+                "value": 60
+            }
+        },
+        "weight": {
+            "type": "gendered",
+            "male": {
+                "type": "value",
+                "value": 650
+            },
+            "female": {
+                "type": "value",
+                "value": 850
+            }
+        }
+    },
+    {
+        "name": "Weka",
+        "scientificName": "Gallirallus australis",
+        "teReoName": "Weka",
+        "origin": "Endemic",
+        "rarity": "Locally common",
+        "size": {
+            "type": "value",
+            "value": 53
+        },
+        "weight": {
+            "type": "gendered",
+            "male": {
+                "type": "value",
+                "value": 1000
+            },
+            "female": {
+                "type": "value",
+                "value": 700
+            }
+        }
+    },
+    {
+        "name": "Banded Rail",
+        "scientificName": "Gallirallus philippensis",
+        "teReoName": "Moho pereru",
+        "origin": "Native",
+        "rarity": "Uncommon",
+        "size": {
+            "type": "value",
+            "value": 30
+        },
+        "weight": {
+            "type": "value",
+            "value": 70
+        }
+    },
+    {
+        "name": "Takahe",
+        "scientificName": "Porphyrio hochstetteri",
+        "teReoName": "Takahe",
+        "origin": "Endemic",
+        "rarity": "Very rare",
+        "size": {
+            "type": "value",
+            "value": 63
+        },
+        "weight": {
+            "type": "value",
+            "value": 3000
+        }
+    },
+    {
+        "name": "Pukeko",
+        "scientificName": "Porphyrio melanotus",
+        "teReoName": "Pukeko",
+        "origin": "Native",
+        "rarity": "Abundant",
+        "size": {
+            "type": "value",
+            "value": 51
+        },
+        "weight": {
+            "type": "gendered",
+            "male": {
+                "type": "value",
+                "value": 1050
+            },
+            "female": {
+                "type": "value",
+                "value": 850
+            }
+        }
+    },
+    {
+        "name": "Australian Coot",
+        "scientificName": "Porphyrio melanotus",
+        "teReoName": "",
+        "origin": "Native",
+        "rarity": "Locally common",
+        "size": {
+            "type": "value",
+            "value": 38
+        },
+        "weight": {
+            "type": "gendered",
+            "male": {
+                "type": "value",
+                "value": 570
+            },
+            "female": {
+                "type": "value",
+                "value": 520
+            }
+        }
+    },
+    {
+        "name": "Red Knot",
+        "scientificName": "Calidris canutus",
+        "teReoName": "Huahou",
+        "origin": "Arctic migrant",
+        "rarity": "Abundant",
+        "size": {
+            "type": "value",
+            "value": 24
+        },
+        "weight": {
+            "type": "value",
+            "value": 120
+        }
+    },
+    {
+        "name": "Bar-Tailed Godwit",
+        "scientificName": "Limosa lapponica",
+        "teReoName": "Kuaka",
+        "origin": "Arctic migrant",
+        "rarity": "Abundant",
+        "size": {
+            "type": "gendered",
+            "male": {
+                "type": "value",
+                "value": 39
+            },
+            "female": {
+                "type": "value",
+                "value": 41
+            }
+        },
+        "weight": {
+            "type": "gendered",
+            "male": {
+                "type": "value",
+                "value": 300
+            },
+            "female": {
+                "type": "value",
+                "value": 350
+            }
+        }
+    },
+    {
+        "name": "Wrybill",
+        "scientificName": "Anarynchus frontalis",
+        "teReoName": "Ngutuparore",
+        "origin": "Endemic",
+        "rarity": "Locally common",
+        "size": {
+            "type": "value",
+            "value": 20
+        },
+        "weight": {
+            "type": "value",
+            "value": 55
+        }
+    },
+    {
+        "name": "South Island Pied Oystercatcher",
+        "scientificName": "Haematopus finschi",
+        "teReoName": "Torea",
+        "origin": "Endemic",
+        "rarity": "Abundant",
+        "size": {
+            "type": "value",
+            "value": 46
+        },
+        "weight": {
+            "type": "value",
+            "value": 550
+        }
+    },
+    {
+        "name": "Variable Oystercatcher",
+        "scientificName": "Haematopus unicolor",
+        "teReoName": "Torea Pango",
+        "origin": "Endemic",
+        "rarity": "Uncommon",
+        "size": {
+            "type": "value",
+            "value": 48
+        },
+        "weight": {
+            "type": "value",
+            "value": 725
+        }
+    },
+    {
+        "name": "Masked lapwing",
+        "scientificName": "Vanellus miles",
+        "teReoName": "",
+        "origin": "Native",
+        "rarity": "Abundant",
+        "size": {
+            "type": "value",
+            "value": 38
+        },
+        "weight": {
+            "type": "gendered",
+            "male": {
+                "type": "value",
+                "value": 370
+            },
+            "female": {
+                "type": "value",
+                "value": 350
+            }
+        }
+    },
+    {
+        "name": "Pied Stilt",
+        "scientificName": "Himantopus himantopus",
+        "teReoName": "Poaka",
+        "origin": "Native",
+        "rarity": "Abundant",
+        "size": {
+            "type": "value",
+            "value": 38
+        },
+        "weight": {
+            "type": "value",
+            "value": 190
+        }
+    },
+    {
+        "name": "Pacific Golden Plover",
+        "scientificName": "Pluvialis fulva",
+        "teReoName": "",
+        "origin": "Arctic migrant",
+        "rarity": "Common",
+        "size": {
+            "type": "value",
+            "value": 25
+        },
+        "weight": {
+            "type": "value",
+            "value": 130
+        }
+    },
+    {
+        "name": "Banded Dotterel",
+        "scientificName": "Charadrius bicinctus",
+        "teReoName": "Pohowera",
+        "origin": "Endemic",
+        "rarity": "Abundant",
+        "size": {
+            "type": "value",
+            "value": 20
+        },
+        "weight": {
+            "type": "value",
+            "value": 60
+        }
+    },
+    {
+        "name": "New Zealand Dotterel",
+        "scientificName": "Charadrius obscurus",
+        "teReoName": "Tuturiwhatu",
+        "origin": "Endemic",
+        "rarity": "Locally common",
+        "size": {
+            "type": "value",
+            "value": 25
+        },
+        "weight": {
+            "type": "regional",
+            "northern": {
+                "type": "value",
+                "value": 145
+            },
+            "southern": {
+                "type": "value",
+                "value": 160
+            }
+        }
+    },
+    {
+        "name": "Black-Backed Gull",
+        "scientificName": "Larus dominicanus",
+        "teReoName": "Karoro",
+        "origin": "Native",
+        "rarity": "Abundant",
+        "size": {
+            "type": "value",
+            "value": 60
+        },
+        "weight": {
+            "type": "gendered",
+            "male": {
+                "type": "value",
+                "value": 1050
+            },
+            "female": {
+                "type": "value",
+                "value": 850
+            }
+        }
+    },
+    {
+        "name": "Red-Billed Gull",
+        "scientificName": "Larus novaehollandiae",
+        "teReoName": "Tarāpunga",
+        "origin": "Native",
+        "rarity": "Abundant",
+        "size": {
+            "type": "value",
+            "value": 37
+        },
+        "weight": {
+            "type": "gendered",
+            "male": {
+                "type": "value",
+                "value": 300
+            },
+            "female": {
+                "type": "value",
+                "value": 260
+            }
+        }
+    },
+    {
+        "name": "Black-Billed Gull",
+        "scientificName": "Larus bulleri",
+        "teReoName": "Tarāpunga",
+        "origin": "Endemic",
+        "rarity": "Locally common",
+        "size": {
+            "type": "value",
+            "value": 37
+        },
+        "weight": {
+            "type": "gendered",
+            "male": {
+                "type": "value",
+                "value": 300
+            },
+            "female": {
+                "type": "value",
+                "value": 250
+            }
+        }
+    },
+    {
+        "name": "Caspian Tern",
+        "scientificName": "Hydroprogne caspia",
+        "teReoName": "Taranui",
+        "origin": "Native",
+        "rarity": "Uncommon",
+        "size": {
+            "type": "value",
+            "value": 51
+        },
+        "weight": {
+            "type": "value",
+            "value": 700
+        }
+    },
+    {
+        "name": "White-Fronted Tern",
+        "scientificName": "Sterna striata",
+        "teReoName": "Tara",
+        "origin": "Native",
+        "rarity": "Abundant",
+        "size": {
+            "type": "value",
+            "value": 42
+        },
+        "weight": {
+            "type": "value",
+            "value": 160
+        }
+    },
+    {
+        "name": "New Zealand Pigeon",
+        "scientificName": "Hemiphaga novaeseelandiae",
+        "teReoName": "Kereru",
+        "origin": "Endemic",
+        "rarity": "Common",
+        "size": {
+            "type": "value",
+            "value": 51
+        },
+        "weight": {
+            "type": "value",
+            "value": 650
+        }
+    },
+    {
+        "name": "Rock Pigeon",
+        "scientificName": "Columba livia",
+        "teReoName": "",
+        "origin": "European introduction",
+        "rarity": "Common",
+        "size": {
+            "type": "value",
+            "value": 33
+        },
+        "weight": {
+            "type": "value",
+            "value": 400
+        }
+    },
+    {
+        "name": "Barbary Dove",
+        "scientificName": "Streptopelia risoria",
+        "teReoName": "",
+        "origin": "African introduction",
+        "rarity": "Locally common",
+        "size": {
+            "type": "value",
+            "value": 28
+        },
+        "weight": {
+            "type": "value",
+            "value": 140
+        }
+    },
+    {
+        "name": "Spotted Dove",
+        "scientificName": "Streptopelia chinensis",
+        "teReoName": "",
+        "origin": "Asian introduction",
+        "rarity": "Locally common",
+        "size": {
+            "type": "value",
+            "value": 30
+        },
+        "weight": {
+            "type": "value",
+            "value": 130
+        }
+    },
+    {
+        "name": "Kea",
+        "scientificName": "Nestor notabilis",
+        "teReoName": "Kea",
+        "origin": "Endemic",
+        "rarity": "Locally common",
+        "size": {
+            "type": "value",
+            "value": 46
+        },
+        "weight": {
+            "type": "gendered",
+            "male": {
+                "type": "value",
+                "value": 950
+            },
+            "female": {
+                "type": "value",
+                "value": 775
+            }
+        }
+    },
+    {
+        "name": "Kaka",
+        "scientificName": "Nestor meridionalis",
+        "teReoName": "Kaka",
+        "origin": "Endemic",
+        "rarity": "Locally common",
+        "size": {
+            "type": "value",
+            "value": 45
+        },
+        "weight": {
+            "type": "regional",
+            "northern": {
+                "type": "gendered",
+                "male": {
+                    "type": "value",
+                    "value": 475
+                },
+                "female": {
+                    "type": "value",
+                    "value": 425
+                }
+            },
+            "southern": {
+                "type": "gendered",
+                "male": {
+                    "type": "value",
+                    "value": 575
+                },
+                "female": {
+                    "type": "value",
+                    "value": 500
+                }
+            }
+        }
+    },
+    {
+        "name": "Eastern Rosella",
+        "scientificName": "Platycercus eximius",
+        "teReoName": "",
+        "origin": "Australian introduction",
+        "rarity": "Locally common",
+        "size": {
+            "type": "value",
+            "value": 32
+        },
+        "weight": {
+            "type": "value",
+            "value": 110
+        }
+    },
+    {
+        "name": "Shining Cuckoo",
+        "scientificName": "Chrysococcyx ludidus",
+        "teReoName": "Pipiwharauroa",
+        "origin": "Native",
+        "rarity": "Common",
+        "size": {
+            "type": "value",
+            "value": 16
+        },
+        "weight": {
+            "type": "value",
+            "value": 25
+        }
+    },
+    {
+        "name": "Long-Tailed Cuckoo",
+        "scientificName": "Eudynamys taitensis",
+        "teReoName": "Koekoea",
+        "origin": "Native",
+        "rarity": "Locally common",
+        "size": {
+            "type": "value",
+            "value": 40
+        },
+        "weight": {
+            "type": "value",
+            "value": 125
+        }
+    },
+    {
+        "name": "Morepork",
+        "scientificName": "Ninox novaeseelandiae",
+        "teReoName": "Ruru",
+        "origin": "Native",
+        "rarity": "Abundant",
+        "size": {
+            "type": "value",
+            "value": 29
+        },
+        "weight": {
+            "type": "value",
+            "value": 175
+        }
+    },
+    {
+        "name": "Kingfisher",
+        "scientificName": "Todiramphus sanctus",
+        "teReoName": "Kotare",
+        "origin": "Native",
+        "rarity": "Abundant",
+        "size": {
+            "type": "value",
+            "value": 24
+        },
+        "weight": {
+            "type": "value",
+            "value": 65
+        }
+    },
+    {
+        "name": "Welcome Swallow",
+        "scientificName": "Hirundo neoxena",
+        "teReoName": "Warou",
+        "origin": "Native",
+        "rarity": "Abundant",
+        "size": {
+            "type": "value",
+            "value": 15
+        },
+        "weight": {
+            "type": "value",
+            "value": 14
+        }
+    },
+    {
+        "name": "Silvereye",
+        "scientificName": "Zosterops lateralis",
+        "teReoName": "Tauhou",
+        "origin": "Native",
+        "rarity": "Abundant",
+        "size": {
+            "type": "value",
+            "value": 12
+        },
+        "weight": {
+            "type": "value",
+            "value": 13
+        }
+    },
+    {
+        "name": "Grey Warbler",
+        "scientificName": "Gerygone igata",
+        "teReoName": "Riroriro",
+        "origin": "Endemic",
+        "rarity": "Abundant",
+        "size": {
+            "type": "value",
+            "value": 10
+        },
+        "weight": {
+            "type": "value",
+            "value": 6.5
+        }
+    },
+    {
+        "name": "North Island Saddleback",
+        "scientificName": "Philesturnus rufusater",
+        "teReoName": "Tieke",
+        "origin": "Endemic",
+        "rarity": "Locally abundant",
+        "size": {
+            "type": "value",
+            "value": 25
+        },
+        "weight": {
+            "type": "gendered",
+            "male": {
+                "type": "value",
+                "value": 80
+            },
+            "female": {
+                "type": "value",
+                "value": 70
+            }
+        }
+    },
+    {
+        "name": "Tui",
+        "scientificName": "Prosthemadera novaeseelandiae",
+        "teReoName": "Tui",
+        "origin": "Endemic",
+        "rarity": "Abundant",
+        "size": {
+            "type": "value",
+            "value": 30
+        },
+        "weight": {
+            "type": "gendered",
+            "male": {
+                "type": "value",
+                "value": 120
+            },
+            "female": {
+                "type": "value",
+                "value": 90
+            }
+        }
+    },
+    {
+        "name": "Stitchbird",
+        "scientificName": "Notiomystis cincta",
+        "teReoName": "Hihi",
+        "origin": "Endemic",
+        "rarity": "Rare",
+        "size": {
+            "type": "value",
+            "value": 18
+        },
+        "weight": {
+            "type": "gendered",
+            "male": {
+                "type": "value",
+                "value": 37
+            },
+            "female": {
+                "type": "value",
+                "value": 30
+            }
+        }
+    },
+    {
+        "name": "Bellbird",
+        "scientificName": "Anthornis melanura",
+        "teReoName": "Korimako",
+        "origin": "Endemic",
+        "rarity": "Locally abundant",
+        "size": {
+            "type": "value",
+            "value": 20
+        },
+        "weight": {
+            "type": "gendered",
+            "male": {
+                "type": "value",
+                "value": 34
+            },
+            "female": {
+                "type": "value",
+                "value": 26
+            }
+        }
+    },
+    {
+        "name": "Fernird",
+        "scientificName": "Bowdleria punctata",
+        "teReoName": "Matata",
+        "origin": "Endemic",
+        "rarity": "Locally common",
+        "size": {
+            "type": "value",
+            "value": 18
+        },
+        "weight": {
+            "type": "value",
+            "value": 35
+        }
+    },
+    {
+        "name": "Whitehead",
+        "scientificName": "Mohoua albicilla",
+        "teReoName": "Popokatea",
+        "origin": "Endemic",
+        "rarity": "Locally common",
+        "size": {
+            "type": "value",
+            "value": 15
+        },
+        "weight": {
+            "type": "gendered",
+            "male": {
+                "type": "value",
+                "value": 18.5
+            },
+            "female": {
+                "type": "value",
+                "value": 14.5
+            }
+        }
+    },
+    {
+        "name": "Fantail",
+        "scientificName": "Rhipidura fuliginosa",
+        "teReoName": "Piwakawaka",
+        "origin": "Native",
+        "rarity": "Abundant",
+        "size": {
+            "type": "bodyTail",
+            "body": {
+                "type": "value",
+                "value": 8
+            },
+            "tail": {
+                "type": "value",
+                "value": 8
+            }
+        },
+        "weight": {
+            "type": "value",
+            "value": 8
+        }
+    }
+]
