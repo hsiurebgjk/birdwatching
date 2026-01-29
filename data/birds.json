@@ -1136,5 +1136,229 @@
             "type": "value",
             "value": 8
         }
+    },
+    {
+        "name": "Starling",
+        "scientificName": "Sturnus vulgaris",
+        "teReoName": "",
+        "origin": "European introduction",
+        "rarity": "Abundant",
+        "size": {
+            "type": "value",
+            "value": 21
+        },
+        "weight": {
+            "type": "value",
+            "value": 85
+        }
+    },
+    {
+        "name": "Myna",
+        "scientificName": "Acridotheres tristis",
+        "teReoName": "",
+        "origin": "Asian introduction",
+        "rarity": "Locally abundant",
+        "size": {
+            "type": "value",
+            "value": 24
+        },
+        "weight": {
+            "type": "value",
+            "value": 125
+        }
+    },
+    {
+        "name": "Australian Magpie",
+        "scientificName": "Gymnorhyna tibicen",
+        "teReoName": "",
+        "origin": "Australian introduction",
+        "rarity": "Abundant",
+        "size": {
+            "type": "value",
+            "value": 41
+        },
+        "weight": {
+            "type": "value",
+            "value": 350
+        }
+    },
+    {
+        "name": "Tomtit",
+        "scientificName": "Petroica macrocephala",
+        "teReoName": "Miromiro",
+        "origin": "Endemic",
+        "rarity": "Common",
+        "size": {
+            "type": "value",
+            "value": 13
+        },
+        "weight": {
+            "type": "value",
+            "value": 11
+        }
+    },
+    {
+        "name": "North Island Robin",
+        "scientificName": "Petroica longipes",
+        "teReoName": "Toutouwai",
+        "origin": "Endemic",
+        "rarity": "Uncommon",
+        "size": {
+            "type": "value",
+            "value": 18
+        },
+        "weight": {
+            "type": "value",
+            "value": 35
+        }
+    },
+    {
+        "name": "Blackbird",
+        "scientificName": "Turdus merula",
+        "teReoName": "",
+        "origin": "European introduction",
+        "rarity": "Abundant",
+        "size": {
+            "type": "value",
+            "value": 25
+        },
+        "weight": {
+            "type": "value",
+            "value": 90
+        }
+    },
+    {
+        "name": "Song Thrush",
+        "scientificName": "Turdus philomelos",
+        "teReoName": "",
+        "origin": "European introduction",
+        "rarity": "Common",
+        "size": {
+            "type": "value",
+            "value": 23
+        },
+        "weight": {
+            "type": "value",
+            "value": 70
+        }
+    },
+    {
+        "name": "Skylark",
+        "scientificName": "Alauda arvensis",
+        "teReoName": "",
+        "origin": "European introduction",
+        "rarity": "Common",
+        "size": {
+            "type": "value",
+            "value": 18
+        },
+        "weight": {
+            "type": "value",
+            "value": 38
+        }
+    },
+    {
+        "name": "New Zealand Pipit",
+        "scientificName": "Anthus novaeseelandiae",
+        "teReoName": "Pihoihoi",
+        "origin": "Endemic",
+        "rarity": "Uncommon",
+        "size": {
+            "type": "value",
+            "value": 19
+        },
+        "weight": {
+            "type": "value",
+            "value": 40
+        }
+    },
+    {
+        "name": "House Sparrow",
+        "scientificName": "Passer domesticus",
+        "teReoName": "",
+        "origin": "European introduction",
+        "rarity": "Abundant",
+        "size": {
+            "type": "value",
+            "value": 14
+        },
+        "weight": {
+            "type": "value",
+            "value": 30
+        }
+    },
+    {
+        "name": "Chaffinch",
+        "scientificName": "Fringilla Coelebs",
+        "teReoName": "",
+        "origin": "European introduction",
+        "rarity": "Abundant",
+        "size": {
+            "type": "value",
+            "value": 15
+        },
+        "weight": {
+            "type": "gendered",
+            "male": {
+                "type": "value",
+                "value": 22
+            },
+            "female": {
+                "type": "value",
+                "value": 21
+            }
+        }
+    },
+    {
+        "name": "Goldfinch",
+        "scientificName": "Carduelis carduelis",
+        "teReoName": "",
+        "origin": "European introduction",
+        "rarity": "Common",
+        "size": {
+            "type": "value",
+            "value": 13
+        },
+        "weight": {
+            "type": "gendered",
+            "male": {
+                "type": "value",
+                "value": 16
+            },
+            "female": {
+                "type": "value",
+                "value": 15
+            }
+        }
+    },
+    {
+        "name": "Greenfinch",
+        "scientificName": "Carduelis chloris",
+        "teReoName": "",
+        "origin": "European introduction",
+        "rarity": "Common",
+        "size": {
+            "type": "value",
+            "value": 15
+        },
+        "weight": {
+            "type": "value",
+            "value": 28
+        }
+    },
+    {
+        "name": "Yellowhammer",
+        "scientificName": "Emberiza citrinella",
+        "teReoName": "",
+        "origin": "European introduction",
+        "rarity": "Common",
+        "size": {
+            "type": "value",
+            "value": 16
+        },
+        "weight": {
+            "type": "value",
+            "value": 27
+        }
     }
 ]
