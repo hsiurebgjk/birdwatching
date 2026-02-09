@@ -3,6 +3,7 @@ import sortJsonObject from './utils/sortJsonObject';
 import BirdSearch from './components/BirdSearch';
 import Size from './components/Size';
 import useBirdData from './components/useBirdData';
+import NzBirdOnline from './components/NzBirdOnline';
 
 const App = () => {
   const { ready, birds, setBirds } = useBirdData();
@@ -32,8 +33,7 @@ const App = () => {
             ) => {
               return (
                 <tr key={index}>
-                  <td>{teReoName}</td>{' '}
-                  {/* // https://www.nzbirdsonline.org.nz/species/{name} */}
+                  <td>{<NzBirdOnline teReoName={teReoName} name={name} />}</td>{' '}
                   <td>{<BirdSearch name={name} />}</td>
                   <td>{scientificName}</td>
                   <td>{rarity}</td>
