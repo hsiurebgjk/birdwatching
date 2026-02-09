@@ -8,4 +8,7 @@ export default defineConfig({
   output: {
     assetPrefix: '/birdwatching/',
   },
+  html: {
+    title: "Ying and Julian's birds",
+  },
 });
