@@ -1360,5 +1360,42 @@
             "type": "value",
             "value": 27
         }
+    },
+    {
+        "name": "Whimbrel",
+        "scientificName": "Numenius phaeopus",
+        "teReoName": "",
+        "origin": "Arctic migrant",
+        "rarity": "Uncommon",
+        "size": {
+            "type": "value",
+            "value": 43
+        },
+        "weight": {
+            "type": "value",
+            "value": 450
+        }
+    },
+    {
+        "name": "Brown Kiwi",
+        "scientificName": "Apteryx mantelli",
+        "teReoName": "Kiwi",
+        "origin": "Endemic",
+        "rarity": "Uncommon",
+        "size": {
+            "type": "value",
+            "value": 40
+        },
+        "weight": {
+            "type": "gendered",
+            "male": {
+                "type": "value",
+                "value": 2200
+            },
+            "female": {
+                "type": "value",
+                "value": 2800
+            }
+        }
     }
 ]

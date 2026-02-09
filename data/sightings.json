@@ -282,5 +282,13 @@
     {
         "name": "Yellowhammer",
         "location": "Ambury Regional Park"
+    },
+    {
+        "name": "Whimbrel",
+        "location": "Miranda Shorebird Center"
+    },
+    {
+        "name": "Brown Kiwi",
+        "location": "Tawharanui Regional Park"
     }
 ]
