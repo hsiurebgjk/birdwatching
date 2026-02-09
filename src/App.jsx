@@ -1,26 +1,11 @@
 import './App.css';
-import { useState, useEffect } from 'react';
-import { getBirds } from './utils/getBirds';
 import sortJsonObject from './utils/sortJsonObject';
 import BirdSearch from './components/BirdSearch';
 import Size from './components/Size';
+import useBirdData from './components/useBirdData';
 
 const App = () => {
-  const [birds, setBirds] = useState(null);
-
-  useEffect(() => {
-    let ignore = false;
-    setBirds(null);
-    getBirds().then((result) => {
-      if (!ignore) {
-        setBirds(result);
-      }
-    });
-
-    return () => {
-      ignore = true;
-    };
-  }, []);
+  const { ready, birds, setBirds } = useBirdData();
 
   const sort = (property) => setBirds(sortJsonObject(birds, property));
 
@@ -38,7 +23,8 @@ const App = () => {
         </tr>
       </thead>
       <tbody>
-        {birds &&
+        {ready &&
+          birds &&
           birds.map(
             (
               { name, scientificName, teReoName, origin, rarity, size, weight },
