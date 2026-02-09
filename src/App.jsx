@@ -32,7 +32,8 @@ const App = () => {
             ) => {
               return (
                 <tr key={index}>
-                  <td>{teReoName}</td>
+                  <td>{teReoName}</td>{' '}
+                  {/* // https://www.nzbirdsonline.org.nz/species/{name} */}
                   <td>{<BirdSearch name={name} />}</td>
                   <td>{scientificName}</td>
                   <td>{rarity}</td>

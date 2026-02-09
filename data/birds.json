@@ -105,7 +105,7 @@
   {
     "name": "Paradise Shelduck",
     "scientificName": "Tadorna variegata",
-    "teReoName": "Putangitangi",
+    "teReoName": "Pūtangitangi",
     "origin": "Endemic",
     "rarity": "Common",
     "size": {
@@ -127,7 +127,7 @@
   {
     "name": "Grey Teal",
     "scientificName": "Anas gracilis",
-    "teReoName": "Tete",
+    "teReoName": "Tētē-moroiti",
     "origin": "Native",
     "rarity": "Common",
     "size": {
@@ -149,7 +149,7 @@
   {
     "name": "Brown Teal",
     "scientificName": "Anas chlorotis",
-    "teReoName": "Pateke",
+    "teReoName": "Pāteke",
     "origin": "Endemic",
     "rarity": "Rare",
     "size": {
@@ -171,7 +171,7 @@
   {
     "name": "New Zealand Scaup",
     "scientificName": "Aythya novaeseelandia",
-    "teReoName": "Papango",
+    "teReoName": "Pāpango",
     "origin": "Endemic",
     "rarity": "Locally common",
     "size": {
@@ -252,7 +252,7 @@
   {
     "name": "Australasian Gannet",
     "scientificName": "Morus Serrator",
-    "teReoName": "Takapu",
+    "teReoName": "Tākapu",
     "origin": "Native",
     "rarity": "Common",
     "size": {
@@ -267,7 +267,7 @@
   {
     "name": "Black Shag",
     "scientificName": "Phalacrocorax carbo",
-    "teReoName": "Kawau",
+    "teReoName": "Kawau / Māpunga",
     "origin": "Native",
     "rarity": "Common",
     "size": {
@@ -356,7 +356,7 @@
   {
     "name": "Swamp Harrier",
     "scientificName": "Circus approximans",
-    "teReoName": "Kahu",
+    "teReoName": "Kāhu",
     "origin": "Native",
     "rarity": "Abundant",
     "size": {
@@ -407,7 +407,7 @@
   {
     "name": "Banded Rail",
     "scientificName": "Gallirallus philippensis",
-    "teReoName": "Moho pereru",
+    "teReoName": "Moho pererū",
     "origin": "Native",
     "rarity": "Uncommon",
     "size": {
@@ -420,9 +420,9 @@
     }
   },
   {
-    "name": "Takahe",
+    "name": "Takahē",
     "scientificName": "Porphyrio hochstetteri",
-    "teReoName": "Takahe",
+    "teReoName": "Takahē",
     "origin": "Endemic",
     "rarity": "Very rare",
     "size": {
@@ -435,9 +435,9 @@
     }
   },
   {
-    "name": "Pukeko",
+    "name": "Pūkeko",
     "scientificName": "Porphyrio melanotus",
-    "teReoName": "Pukeko",
+    "teReoName": "Pūkeko",
     "origin": "Native",
     "rarity": "Abundant",
     "size": {
@@ -525,7 +525,7 @@
   {
     "name": "Wrybill",
     "scientificName": "Anarynchus frontalis",
-    "teReoName": "Ngutuparore",
+    "teReoName": "Ngutu pare / Ngutuparore",
     "origin": "Endemic",
     "rarity": "Locally common",
     "size": {
@@ -540,7 +540,7 @@
   {
     "name": "South Island Pied Oystercatcher",
     "scientificName": "Haematopus finschi",
-    "teReoName": "Torea",
+    "teReoName": "Tōrea",
     "origin": "Endemic",
     "rarity": "Abundant",
     "size": {
@@ -555,7 +555,7 @@
   {
     "name": "Variable Oystercatcher",
     "scientificName": "Haematopus unicolor",
-    "teReoName": "Torea Pango",
+    "teReoName": "Tōrea Pango",
     "origin": "Endemic",
     "rarity": "Uncommon",
     "size": {
@@ -637,7 +637,7 @@
   {
     "name": "New Zealand Dotterel",
     "scientificName": "Charadrius obscurus",
-    "teReoName": "Tuturiwhatu",
+    "teReoName": "Tūturiwhatu",
     "origin": "Endemic",
     "rarity": "Locally common",
     "size": {
@@ -755,7 +755,7 @@
   {
     "name": "New Zealand Pigeon",
     "scientificName": "Hemiphaga novaeseelandiae",
-    "teReoName": "Kereru",
+    "teReoName": "Kererū",
     "origin": "Endemic",
     "rarity": "Common",
     "size": {
@@ -835,9 +835,9 @@
     }
   },
   {
-    "name": "Kaka",
+    "name": "Kākā",
     "scientificName": "Nestor meridionalis",
-    "teReoName": "Kaka",
+    "teReoName": "Kākā",
     "origin": "Endemic",
     "rarity": "Locally common",
     "size": {
@@ -888,7 +888,7 @@
   {
     "name": "Shining Cuckoo",
     "scientificName": "Chrysococcyx ludidus",
-    "teReoName": "Pipiwharauroa",
+    "teReoName": "Pīpīwharauroa",
     "origin": "Native",
     "rarity": "Common",
     "size": {
@@ -903,7 +903,7 @@
   {
     "name": "Long-Tailed Cuckoo",
     "scientificName": "Eudynamys taitensis",
-    "teReoName": "Koekoea",
+    "teReoName": "Koekoeā",
     "origin": "Native",
     "rarity": "Locally common",
     "size": {
@@ -933,7 +933,7 @@
   {
     "name": "Kingfisher",
     "scientificName": "Todiramphus sanctus",
-    "teReoName": "Kotare",
+    "teReoName": "Kōtare",
     "origin": "Native",
     "rarity": "Abundant",
     "size": {
@@ -993,7 +993,7 @@
   {
     "name": "North Island Saddleback",
     "scientificName": "Philesturnus rufusater",
-    "teReoName": "Tieke",
+    "teReoName": "Tīeke",
     "origin": "Endemic",
     "rarity": "Locally abundant",
     "size": {
@@ -1013,9 +1013,9 @@
     }
   },
   {
-    "name": "Tui",
+    "name": "Tūī",
     "scientificName": "Prosthemadera novaeseelandiae",
-    "teReoName": "Tui",
+    "teReoName": "Tūī",
     "origin": "Endemic",
     "rarity": "Abundant",
     "size": {
@@ -1081,7 +1081,7 @@
   {
     "name": "Fernird",
     "scientificName": "Bowdleria punctata",
-    "teReoName": "Matata",
+    "teReoName": "Mātātā",
     "origin": "Endemic",
     "rarity": "Locally common",
     "size": {
@@ -1096,7 +1096,7 @@
   {
     "name": "Whitehead",
     "scientificName": "Mohoua albicilla",
-    "teReoName": "Popokatea",
+    "teReoName": "Pōpokotea",
     "origin": "Endemic",
     "rarity": "Locally common",
     "size": {
@@ -1118,7 +1118,7 @@
   {
     "name": "Fantail",
     "scientificName": "Rhipidura fuliginosa",
-    "teReoName": "Piwakawaka",
+    "teReoName": "Pīwakawaka",
     "origin": "Native",
     "rarity": "Abundant",
     "size": {
@@ -1260,7 +1260,7 @@
   {
     "name": "New Zealand Pipit",
     "scientificName": "Anthus novaeseelandiae",
-    "teReoName": "Pihoihoi",
+    "teReoName": "Pīhoihoi",
     "origin": "Endemic",
     "rarity": "Uncommon",
     "size": {
@@ -1377,9 +1377,9 @@
     }
   },
   {
-    "name": "Brown Kiwi",
+    "name": "North Island brown kiwi",
     "scientificName": "Apteryx mantelli",
-    "teReoName": "Kiwi",
+    "teReoName": "Kiwi-nui",
     "origin": "Endemic",
     "rarity": "Uncommon",
     "size": {
