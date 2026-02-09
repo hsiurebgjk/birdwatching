@@ -3,6 +3,7 @@ import { useState, useEffect } from 'react';
 import { getBirds } from './utils/getBirds';
 import sortJsonObject from './utils/sortJsonObject';
 import BirdSearch from './components/BirdSearch';
+import Size from './components/Size';
 
 const App = () => {
   const [birds, setBirds] = useState(null);
@@ -50,8 +51,8 @@ const App = () => {
                   <td>{scientificName}</td>
                   <td>{rarity}</td>
                   <td>{origin}</td>
-                  <td>{JSON.stringify(size)}</td>
-                  <td>{JSON.stringify(weight)}</td>
+                  <td>{<Size value={size} unit="cm" />}</td>
+                  <td>{<Size value={weight} unit="g" />}</td>
                 </tr>
               );
             },
