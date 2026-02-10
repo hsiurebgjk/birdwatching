@@ -41,9 +41,18 @@ function useBirdData() {
     };
   }
 
+  const combined = birds.map((bird) => {
+    return {
+      ...bird,
+      ...(sightings.find((x) => x.name === bird.name) ?? { rating: 0 }),
+    };
+  });
+
+  combined.sort((a, b) => a.rating - b.rating);
+
   return {
     ready: true,
-    birds,
+    birds: combined,
     setBirds,
   };
 }

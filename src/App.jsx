@@ -19,6 +19,7 @@ const App = () => {
           <th onClick={() => sort('teReoName')}>Te Reo Name</th>
           <th onClick={() => sort('name')}>Name</th>
           <th onClick={() => sort('rarity')}>Rarity</th>
+          <th onClick={() => sort('rating')}>Rating</th>
           <th onClick={() => sort('origin')}>Origin</th>
           <th>Size</th>
           <th>Weight</th>
@@ -36,6 +37,7 @@ const App = () => {
                 teReoName,
                 origin,
                 rarity,
+                rating,
                 size,
                 weight,
               },
@@ -55,6 +57,7 @@ const App = () => {
                     <a title={scientificName}>&#9432;</a>
                   </td>
                   <td>{rarity}</td>
+                  <td>{rating}</td>
                   <td>{origin}</td>
                   <td>{<Size value={size} unit="cm" />}</td>
                   <td>{<Size value={weight} unit="g" />}</td>
