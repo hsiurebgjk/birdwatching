@@ -4,6 +4,7 @@ import BirdSearch from './components/BirdSearch';
 import Size from './components/Size';
 import useBirdData from './components/useBirdData';
 import NzBirdOnline from './components/NzBirdOnline';
+import DuckLink from './components/DuckLink';
 
 const App = () => {
   const { ready, birds, setBirds } = useBirdData();
@@ -14,9 +15,9 @@ const App = () => {
     <table>
       <thead>
         <tr>
+          <th>Links</th>
           <th onClick={() => sort('teReoName')}>Te Reo Name</th>
           <th onClick={() => sort('name')}>Name</th>
-          <th onClick={() => sort('scientificName')}>Scientific Name</th>
           <th onClick={() => sort('rarity')}>Rarity</th>
           <th onClick={() => sort('origin')}>Origin</th>
           <th>Size</th>
@@ -33,9 +34,12 @@ const App = () => {
             ) => {
               return (
                 <tr key={index}>
+                  <td>{<DuckLink name={name} />}</td>{' '}
                   <td>{<NzBirdOnline teReoName={teReoName} name={name} />}</td>{' '}
-                  <td>{<BirdSearch name={name} />}</td>
-                  <td>{scientificName}</td>
+                  <td>
+                    {name}&nbsp;
+                    <a title={scientificName}>&#9432;</a>
+                  </td>
                   <td>{rarity}</td>
                   <td>{origin}</td>
                   <td>{<Size value={size} unit="cm" />}</td>
