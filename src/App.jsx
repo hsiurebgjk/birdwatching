@@ -1,6 +1,5 @@
 import './App.css';
 import sortJsonObject from './utils/sortJsonObject';
-import BirdSearch from './components/BirdSearch';
 import Size from './components/Size';
 import useBirdData from './components/useBirdData';
 import NzBirdOnline from './components/NzBirdOnline';
