@@ -1,7 +1,7 @@
 import './App.css';
 import sortJsonObject from './utils/sortJsonObject';
 import Size from './components/Size';
-import useBirdData from './components/useBirdData';
+import useBirdData from './hooks/useBirdData';
 import NzBirdOnline from './components/NzBirdOnline';
 import DuckLink from './components/DuckLink';
 import OsmLink from './components/OsmLink';
@@ -16,15 +16,15 @@ const App = () => {
       <thead>
         <tr>
           <th>Links</th>
-          <th onClick={() => sort('location')}>Where</th>
           <th onClick={() => sort('teReoName')}>Te Reo Name</th>
           <th onClick={() => sort('name')}>Name</th>
           <th onClick={() => sort('rarity')}>Rarity</th>
-          <th onClick={() => sort('comment')}>Comment</th>
-          <th onClick={() => sort('rating')}>Rating</th>
           <th onClick={() => sort('origin')}>Origin</th>
           <th>Size</th>
           <th>Weight</th>
+          <th onClick={() => sort('rating')}>Rating</th>
+          <th onClick={() => sort('location')}>Where</th>
+          <th onClick={() => sort('comment')}>Comment</th>
         </tr>
       </thead>
       <tbody>
@@ -54,13 +54,6 @@ const App = () => {
                     &nbsp;
                     {<NzBirdOnline nzBirdName={nzBirdName} name={name} />}
                   </td>
-                  <td>
-                    {location || 'Not yet :('}
-                    &nbsp;
-                    {location &&
-                      location !== 'EVERYWHERE' &&
-                      location !== 'Forests' && <OsmLink location={location} />}
-                  </td>
                   <td>{teReoName}</td>
                   <td>
                     {name}
@@ -68,13 +61,18 @@ const App = () => {
                     <a title={scientificName}>&#9432;</a>
                   </td>
                   <td>{rarity}</td>
-                  <td>{comment}</td>
-                  <td>
-                    {[...new Array(rating)].map((_) => '★').join('') || '-'}
-                  </td>
                   <td>{origin}</td>
                   <td>{<Size value={size} unit="cm" />}</td>
                   <td>{<Size value={weight} unit="g" />}</td>
+                  <td>
+                    {[...new Array(rating)].map((_) => '★').join('') || '-'}
+                  </td>
+                  <td>
+                    {location || 'Not yet :('}
+                    &nbsp;
+                    <OsmLink location={location} />
+                  </td>
+                  <td>{comment}</td>
                 </tr>
               );
             },
