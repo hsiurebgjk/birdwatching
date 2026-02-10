@@ -29,7 +29,16 @@ const App = () => {
           birds &&
           birds.map(
             (
-              { name, scientificName, teReoName, origin, rarity, size, weight },
+              {
+                name,
+                nzBirdName,
+                scientificName,
+                teReoName,
+                origin,
+                rarity,
+                size,
+                weight,
+              },
               index,
             ) => {
               return (
@@ -37,7 +46,7 @@ const App = () => {
                   <td>
                     {<DuckLink name={name} />}
                     &nbsp;
-                    {<NzBirdOnline teReoName={teReoName} name={name} />}
+                    {<NzBirdOnline nzBirdName={nzBirdName} name={name} />}
                   </td>
                   <td>{teReoName}</td>
                   <td>
