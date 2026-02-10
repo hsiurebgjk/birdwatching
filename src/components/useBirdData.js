@@ -48,8 +48,6 @@ function useBirdData() {
     };
   });
 
-  combined.sort((a, b) => a.rating - b.rating);
-
   return {
     ready: true,
     birds: combined,

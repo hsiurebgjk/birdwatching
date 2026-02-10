@@ -1,433 +1,433 @@
 [
   {
-    "name": "Pheasant",
-    "location": ["Wharepapa South"],
+    "name": "Common pheasant",
+    "location": "Wharepapa South",
     "rating": 0,
     "comment": "Meh"
   },
   {
     "name": "California Quail",
-    "location": ["Mahurangi Regional Park"],
+    "location": "Mahurangi Regional Park",
     "rating": 1,
     "comment": "Has a funny feather on the head"
   },
   {
     "name": "Black Swan",
-    "location": ["Puketutu Island", "Late Rotorua"],
+    "location": "Puketutu Island",
     "rating": 0,
     "comment": "Meh"
   },
   {
     "name": "Canada Goose",
-    "location": ["Ambury Regional Park"],
+    "location": "Ambury Regional Park",
     "rating": 0,
     "comment": "Meh"
   },
   {
-    "name": "Feral Goose",
-    "location": ["Pakini Hepi Pond"],
+    "name": "Greylag goose",
+    "location": "Pakini Hepi Pond",
     "rating": 0,
     "comment": "Meh"
   },
   {
     "name": "Paradise Shelduck",
-    "location": ["Ambury Regional Park"],
+    "location": "Ambury Regional Park",
     "rating": 3,
     "comment": "Good looking ducks!"
   },
   {
     "name": "Grey Teal",
-    "location": ["Ambury Regional Park"],
+    "location": "Ambury Regional Park",
     "rating": 0,
     "comment": "Meh"
   },
   {
     "name": "Brown Teal",
-    "location": ["Tawharanui Regional Park"],
+    "location": "Tawharanui Regional Park",
     "rating": 1,
     "comment": "A rare duck that has a white eye ring"
   },
   {
     "name": "New Zealand Scaup",
-    "location": ["Waiatarua Reserve"],
+    "location": "Waiatarua Reserve",
     "rating": 1,
-    "comment": "A black duck"
+    "comment": "A good looking black duck"
   },
   {
     "name": "Mallard",
-    "location": ["Pakini Hepi Pond"],
+    "location": "Pakini Hepi Pond",
     "rating": 0,
     "comment": "Meh"
   },
   {
     "name": "Australasian Shoveler",
-    "location": ["Puketutu Island"],
+    "location": "Puketutu Island",
     "rating": 1,
     "comment": "Has a scary beak"
   },
   {
     "name": "New Zealand Dabchick",
-    "location": ["Puketutu Island"],
+    "location": "Puketutu Island",
     "rating": 2,
     "comment": "Super small and good looking"
   },
   {
     "name": "Australasian Gannet",
-    "location": ["Muriwai"],
+    "location": "Muriwai",
     "rating": 2,
     "comment": "An excellent diver"
   },
   {
     "name": "Black Shag",
-    "location": ["Puketutu Island"],
+    "location": "Puketutu Island",
     "rating": 2,
     "comment": "Dries its feathers by opening them out in the sun"
   },
   {
     "name": "Pied Shag",
-    "location": ["Puketutu Island"],
+    "location": "Puketutu Island",
     "rating": 2,
     "comment": "Shags are also called Cormorant"
   },
   {
     "name": "White-Faced Heron",
-    "location": ["Ambury Regional Park"],
+    "location": "Ambury Regional Park",
     "rating": 1,
     "comment": "Very common but has some hairy feathers on its back"
   },
   {
     "name": "Reef Heron",
-    "location": ["Ambury Regional Park"],
+    "location": "Ambury Regional Park",
     "rating": 1,
     "comment": "Looks like a bad bird, its crouched posture is scary"
   },
   {
     "name": "Royal Spoonbill",
-    "location": ["Ambury Regional Park"],
+    "location": "Ambury Regional Park",
     "rating": 2,
     "comment": "Funny beak!"
   },
   {
     "name": "Swamp Harrier",
-    "location": ["Ambury Regional Park"],
+    "location": "Ambury Regional Park",
     "rating": 2,
     "comment": "Scares the shit out of the other birds"
   },
   {
     "name": "Weka",
-    "location": ["Milford Sound"],
+    "location": "Milford Sound",
     "rating": 1,
     "comment": "Often confused with a Kiwi"
   },
   {
     "name": "Banded Rail",
-    "location": ["Tawharanui Regional Park"],
+    "location": "Tawharanui Regional Park",
     "rating": 2,
     "comment": "Cool looking, but hides very well"
   },
   {
-    "name": "Takahe",
-    "location": ["Tawharanui Regional Park"],
+    "name": "South Island Takahē",
+    "location": "Tawharanui Regional Park",
     "rating": 2,
     "comment": "Got extinct, has been rediscovered"
   },
   {
-    "name": "Pukeko",
-    "location": ["EVERYWHERE"],
+    "name": "Pūkeko",
+    "location": "EVERYWHERE",
     "rating": 1,
     "comment": "They look goofy when they fly"
   },
   {
     "name": "Australian Coot",
-    "location": ["Lake Tarawera"],
+    "location": "Lake Tarawera",
     "rating": 1,
     "comment": "Cool face"
   },
   {
     "name": "Red Knot",
-    "location": ["Ambury Regional Park"],
+    "location": "Ambury Regional Park",
     "rating": 2,
     "comment": "Hides amongst the Bar-Tailed Godwit"
   },
   {
     "name": "Bar-Tailed Godwit",
-    "location": ["Ambury Regional Park"],
+    "location": "Ambury Regional Park",
     "rating": 3,
     "comment": "Migrates all the way from Alaska in a single 13000km flight"
   },
   {
     "name": "Wrybill",
-    "location": ["Ambury Regional Park"],
+    "location": "Ambury Regional Park",
     "rating": 3,
     "comment": "The only bird with a beak bent sideways"
   },
   {
     "name": "South Island Pied Oystercatcher",
-    "location": ["Ambury Regional Park"],
+    "location": "Ambury Regional Park",
     "rating": 1,
     "comment": "Huge group of big orange beaked bird"
   },
   {
     "name": "Variable Oystercatcher",
-    "location": ["Ambury Regional Park"],
+    "location": "Ambury Regional Park",
     "rating": 2,
     "comment": "Orange beaked bird that hangs out as a couple"
   },
   {
     "name": "Masked lapwing",
-    "location": ["Ambury Regional Park"],
+    "location": "Ambury Regional Park",
     "rating": 2,
     "comment": "Has a flesh mask and spurs on its wings"
   },
   {
     "name": "Pied Stilt",
-    "location": ["Ambury Regional Park"],
+    "location": "Ambury Regional Park",
     "rating": 2,
     "comment": "Fun bird that barks like a chihuahua"
   },
   {
     "name": "Pacific Golden Plover",
-    "location": ["Miranda Shorebird Center"],
+    "location": "Miranda Shorebird Center",
     "rating": 1,
     "comment": "Golden bird that turns black during the mating season"
   },
   {
     "name": "Banded Dotterel",
-    "location": ["Miranda Shorebird Center"],
+    "location": "Miranda Shorebird Center",
     "rating": 0,
     "comment": "It has a neck beard"
   },
   {
     "name": "New Zealand Dotterel",
-    "location": ["Ambury Regional Park"],
+    "location": "Ambury Regional Park",
     "rating": 3,
     "comment": "The cutest bird hands down"
   },
   {
-    "name": "Black-Backed Gull",
-    "location": ["Ambury Regional Park"],
+    "name": "Southern Black-Backed Gull",
+    "location": "Ambury Regional Park",
     "rating": 1,
     "comment": "A large gull"
   },
   {
     "name": "Red-Billed Gull",
-    "location": ["Ambury Regional Park"],
+    "location": "Ambury Regional Park",
     "rating": 0,
     "comment": "Just a normal gull"
   },
   {
     "name": "Black-Billed Gull",
-    "location": ["Ambury Regional Park"],
+    "location": "Ambury Regional Park",
     "rating": 1,
     "comment": "A regular gull but with a black beak"
   },
   {
     "name": "Caspian Tern",
-    "location": ["Ambury Regional Park"],
+    "location": "Ambury Regional Park",
     "rating": 2,
     "comment": "A big tern!"
   },
   {
     "name": "White-Fronted Tern",
-    "location": ["Ambury Regional Park"],
+    "location": "Ambury Regional Park",
     "rating": 3,
     "comment": "My favourite tern! Looks like it could cut you"
   },
   {
     "name": "New Zealand Pigeon",
-    "location": ["Forests"],
+    "location": "Forests",
     "rating": 3,
     "comment": "Thick pigeon! Beautiful and noisy!"
   },
   {
     "name": "Rock Pigeon",
-    "location": ["EVERYWHERE"],
+    "location": "EVERYWHERE",
     "rating": 0,
     "comment": "Meh"
   },
   {
     "name": "Barbary Dove",
-    "location": ["Ambury Regional Park"],
+    "location": "Ambury Regional Park",
     "rating": 0,
     "comment": "Meh"
   },
   {
     "name": "Spotted Dove",
-    "location": ["Ambury Regional Park"],
+    "location": "Ambury Regional Park",
     "rating": 0,
     "comment": "Meh"
   },
   {
     "name": "Kea",
-    "location": ["Kepler Track"],
+    "location": "Kepler Track",
     "rating": 1,
     "comment": "Green playful parrot that will attempt to destroy human belongings"
   },
   {
-    "name": "Kaka",
-    "location": ["Tawharanui Regional Park"],
+    "name": "Kākā",
+    "location": "Tawharanui Regional Park",
     "rating": 1,
     "comment": "Dark parrot that does dinosaurs sounds"
   },
   {
     "name": "Eastern Rosella",
-    "location": ["Ambury Regional Park"],
+    "location": "Ambury Regional Park",
     "rating": 1,
     "comment": "Colorful parrot"
   },
   {
     "name": "Morepork",
-    "location": ["Ambury Regional Park"],
+    "location": "Ambury Regional Park",
     "rating": 2,
     "comment": "A tiny Owl"
   },
   {
     "name": "Sacred Kingfisher",
-    "location": ["Ambury Regional Park"],
+    "location": "Ambury Regional Park",
     "rating": 2,
     "comment": "Perches high and dives to hunt its prey"
   },
   {
     "name": "Welcome Swallow",
-    "location": ["Ambury Regional Park"],
+    "location": "Ambury Regional Park",
     "rating": 1,
     "comment": "Flies fast to eat insect in flight"
   },
   {
     "name": "Silvereye",
-    "location": ["Ambury Regional Park"],
+    "location": "Ambury Regional Park",
     "rating": 1,
     "comment": "Very cute with its eye ring"
   },
   {
     "name": "Grey Warbler",
-    "location": ["Lake Tarawera"],
+    "location": "Lake Tarawera",
     "rating": 1,
     "comment": "A victim of the shinning cuckoo"
   },
   {
     "name": "North Island Saddleback",
-    "location": ["Maungatautari Sanctuary"],
+    "location": "Maungatautari Sanctuary",
     "rating": 3,
     "comment": "Has cute red wattles"
   },
   {
-    "name": "Tui",
-    "location": ["Ambury Regional Park"],
+    "name": "Tūī",
+    "location": "Ambury Regional Park",
     "rating": 3,
     "comment": "Sings like a robot and has two feathers on the throat"
   },
   {
     "name": "Stitchbird",
-    "location": ["Maungatautari Sanctuary"],
+    "location": "Maungatautari Sanctuary",
     "rating": 1,
     "comment": "Rare as fuck"
   },
   {
     "name": "Bellbird",
-    "location": ["Tawharanui Regional Park"],
+    "location": "Tawharanui Regional Park",
     "rating": 3,
     "comment": "Smaller relative of the Tui, sings like crazy!"
   },
   {
     "name": "Whitehead",
-    "location": ["Lake Tarawera"],
+    "location": "Lake Tarawera",
     "rating": 3,
     "comment": "travels as a group, are very loud and obnoxious"
   },
   {
-    "name": "Fantail",
-    "location": ["Forests"],
+    "name": "New Zealand Fantail",
+    "location": "Forests",
     "rating": 2,
     "comment": "Would fly around you during forest walk"
   },
   {
-    "name": "Starling",
-    "location": ["Tawharanui Regional Park"],
+    "name": "Common Starling",
+    "location": "Tawharanui Regional Park",
     "rating": 1,
     "comment": "Shinny"
   },
   {
-    "name": "Myna",
-    "location": ["EVERYWHERE"],
+    "name": "Common Myna",
+    "location": "EVERYWHERE",
     "rating": 1,
     "comment": "Eats dead insects on the side of the road"
   },
   {
     "name": "Australian Magpie",
-    "location": ["EVERYWHERE"],
+    "location": "EVERYWHERE",
     "rating": 1,
     "comment": "Scary birds, territorial, attacks people"
   },
   {
     "name": "Tomtit",
-    "location": ["Lake Tarawera"],
+    "location": "Lake Tarawera",
     "rating": 2,
     "comment": "So small!"
   },
   {
     "name": "North Island Robin",
-    "location": ["Maungatautari Sanctuary"],
+    "location": "Maungatautari Sanctuary",
     "rating": 1,
     "comment": "Big head!"
   },
   {
-    "name": "Blackbird",
-    "location": ["EVERYWHERE"],
+    "name": "Eurasian Blackbird",
+    "location": "EVERYWHERE",
     "rating": 1,
     "comment": "Male is black, female is brown, another victim of the patriarchy."
   },
   {
     "name": "Song Thrush",
-    "location": ["EVERYWHERE"],
+    "location": "EVERYWHERE",
     "rating": 1,
     "comment": "Looks like so many other birds"
   },
   {
     "name": "Skylark",
-    "location": ["Miranda Shorebird Center"],
+    "location": "Miranda Shorebird Center",
     "rating": 2,
     "comment": "Crazy display flight where they fly straight up in the air and sing all the way down"
   },
   {
     "name": "House Sparrow",
-    "location": ["EVERYWHERE"],
+    "location": "EVERYWHERE",
     "rating": 0,
     "comment": "Meh"
   },
   {
     "name": "Chaffinch",
-    "location": ["Ambury Regional Park"],
+    "location": "Ambury Regional Park",
     "rating": 1,
     "comment": "You can't un-see them"
   },
   {
-    "name": "Goldfinch",
-    "location": ["Ambury Regional Park"],
+    "name": "European Goldfinch",
+    "location": "Ambury Regional Park",
     "rating": 2,
     "comment": "Fancy colors!"
   },
   {
-    "name": "Greenfinch",
-    "location": ["Ambury Regional Park"],
+    "name": "European Greenfinch",
+    "location": "Ambury Regional Park",
     "rating": 1,
     "comment": "Cute"
   },
   {
     "name": "Yellowhammer",
-    "location": ["Ambury Regional Park"],
+    "location": "Ambury Regional Park",
     "rating": 2,
     "comment": "So bright!"
   },
   {
     "name": "Whimbrel",
-    "location": ["Miranda Shorebird Center"],
+    "location": "Miranda Shorebird Center",
     "rating": 3,
     "comment": "Only 50 migrate to NZ per year!"
   },
   {
-    "name": "Brown Kiwi",
-    "location": ["Tawharanui Regional Park"],
+    "name": "North Island brown kiwi",
+    "location": "Tawharanui Regional Park",
     "rating": 3,
     "comment": "National symbol"
   }
