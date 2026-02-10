@@ -430,5 +430,11 @@
     "location": "Tawharanui Regional Park",
     "rating": 3,
     "comment": "National symbol"
+  },
+  {
+    "name": "Muscovy duck",
+    "location": "Ambury Regional Park",
+    "rating": 1,
+    "comment": "Introduced, not established"
   }
 ]

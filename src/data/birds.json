@@ -1399,5 +1399,20 @@
         "value": 2800
       }
     }
+  },
+  {
+    "name": "Muscovy duck",
+    "scientificName": "Cairina moschata",
+    "teReoName": "",
+    "origin": "American introduction",
+    "rarity": "N/A",
+    "size": {
+      "type": "value",
+      "value": 75
+    },
+    "weight": {
+      "type": "value",
+      "value": 4300
+    }
   }
 ]
