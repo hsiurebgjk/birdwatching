@@ -1,17 +1,15 @@
-const NzBirdOnline = ({ name, teReoName }) => {
-  let formatted = name.toLowerCase();
-  formatted = formatted.replaceAll(' ', '-');
-  formatted = formatted.replaceAll('ā', 'a');
-  formatted = formatted.replaceAll('ē', 'e');
-  formatted = formatted.replaceAll('ī', 'i');
-  formatted = formatted.replaceAll('ō', 'o');
-  formatted = formatted.replaceAll('ū', 'u');
+const NzBirdOnline = ({ name }) => {
+  name = [' -', 'āa', 'ēe', 'īi', 'ōo', 'ūu'].reduce(
+    (formatted, pair) => formatted.replaceAll(pair[0], pair[1]),
+    name.toLowerCase(),
+  );
+
   return (
     <a
-      href={`https://www.nzbirdsonline.org.nz/species/${formatted}`}
+      href={`https://www.nzbirdsonline.org.nz/species/${name}`}
       target="_blank"
     >
-      {teReoName}
+      <img src="nzbird.ico" width="16px" height="16px" />
     </a>
   );
 };

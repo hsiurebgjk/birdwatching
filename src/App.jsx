@@ -34,10 +34,15 @@ const App = () => {
             ) => {
               return (
                 <tr key={index}>
-                  <td>{<DuckLink name={name} />}</td>{' '}
-                  <td>{<NzBirdOnline teReoName={teReoName} name={name} />}</td>{' '}
                   <td>
-                    {name}&nbsp;
+                    {<DuckLink name={name} />}
+                    &nbsp;
+                    {<NzBirdOnline teReoName={teReoName} name={name} />}
+                  </td>
+                  <td>{teReoName}</td>
+                  <td>
+                    {name}
+                    &nbsp;
                     <a title={scientificName}>&#9432;</a>
                   </td>
                   <td>{rarity}</td>
