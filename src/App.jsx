@@ -4,6 +4,7 @@ import Size from './components/Size';
 import useBirdData from './components/useBirdData';
 import NzBirdOnline from './components/NzBirdOnline';
 import DuckLink from './components/DuckLink';
+import OsmLink from './components/OsmLink';
 
 const App = () => {
   const { ready, birds, setBirds } = useBirdData();
@@ -15,7 +16,7 @@ const App = () => {
       <thead>
         <tr>
           <th>Links</th>
-          <th>Where</th>
+          <th onClick={() => sort('location')}>Where</th>
           <th onClick={() => sort('teReoName')}>Te Reo Name</th>
           <th onClick={() => sort('name')}>Name</th>
           <th onClick={() => sort('rarity')}>Rarity</th>
@@ -53,7 +54,13 @@ const App = () => {
                     &nbsp;
                     {<NzBirdOnline nzBirdName={nzBirdName} name={name} />}
                   </td>
-                  <td>{location || 'Not yet'}</td>
+                  <td>
+                    {location || 'Not yet :('}
+                    &nbsp;
+                    {location &&
+                      location !== 'EVERYWHERE' &&
+                      location !== 'Forests' && <OsmLink location={location} />}
+                  </td>
                   <td>{teReoName}</td>
                   <td>
                     {name}
