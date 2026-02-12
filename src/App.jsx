@@ -5,6 +5,7 @@ import useBirdData from './hooks/useBirdData';
 import NzBirdOnline from './components/NzBirdOnline';
 import DuckLink from './components/DuckLink';
 import OsmLink from './components/OsmLink';
+import WikipediaLink from './components/WikipediaLink';
 
 const App = () => {
   const { ready, birds, setBirds } = useBirdData();
@@ -17,6 +18,7 @@ const App = () => {
         <thead>
           <tr>
             <th>Links</th>
+            <th>Image</th>
             <th onClick={() => sort('teReoName')}>Te Reo Name</th>
             <th onClick={() => sort('name')}>Name</th>
             <th onClick={() => sort('rarity')}>Rarity</th>
@@ -35,6 +37,7 @@ const App = () => {
               (
                 {
                   name,
+                  image,
                   nzBirdName,
                   scientificName,
                   teReoName,
@@ -54,6 +57,11 @@ const App = () => {
                       {<DuckLink name={name} />}
                       &nbsp;
                       {<NzBirdOnline nzBirdName={nzBirdName} name={name} />}
+                      &nbsp;
+                      {<WikipediaLink name={name} />}
+                    </td>
+                    <td>
+                      <img src={`birds/${name}.jpg`} height="100px" />
                     </td>
                     <td>{teReoName}</td>
                     <td>
