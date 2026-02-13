@@ -14,6 +14,12 @@ const App = () => {
 
   return (
     <>
+      <a href="https://github.com/hsiurebgjk/birdwatching">Sources</a> |
+      <img src="ddg.png" width="16px" height="16px" /> DuckDuckGo |
+      <img src="wikipedia.ico" width="16px" height="16px" /> Wikipedia | 🌏
+      OpenStreetMap | <img src="nzbird.ico" width="16px" height="16px" /> New
+      Zealand Birds Online
+      <hr />
       <table>
         <thead>
           <tr>
@@ -37,7 +43,6 @@ const App = () => {
               (
                 {
                   name,
-                  image,
                   nzBirdName,
                   scientificName,
                   teReoName,
@@ -111,7 +116,6 @@ const App = () => {
             )}
         </tbody>
       </table>
-      <a href="https://github.com/hsiurebgjk/birdwatching">Sources</a>
     </>
   );
 };
