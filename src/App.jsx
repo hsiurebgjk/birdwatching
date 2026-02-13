@@ -54,14 +54,37 @@ const App = () => {
                 return (
                   <tr key={index}>
                     <td>
-                      {<DuckLink name={name} />}
-                      &nbsp;
-                      {<NzBirdOnline nzBirdName={nzBirdName} name={name} />}
-                      &nbsp;
-                      {<WikipediaLink name={name} />}
+                      <DuckLink name={name} />
+                      <br />
+                      <NzBirdOnline nzBirdName={nzBirdName} name={name} />
+                      <br />
+                      <WikipediaLink name={name} />
                     </td>
                     <td>
-                      <img src={`birds/${name}.jpg`} height="100px" />
+                      <div
+                        style={{
+                          width: '150px',
+                          overflow: 'hidden',
+                        }}
+                      >
+                        <div
+                          style={{
+                            display: 'inline-block',
+                            position: 'relative',
+                            right: '-50%',
+                          }}
+                        >
+                          <img
+                            style={{
+                              left: '-50%',
+                              position: 'relative',
+                            }}
+                            src={`birds/${name}.jpg`}
+                            height="100px"
+                            alt="A bird"
+                          />
+                        </div>
+                      </div>
                     </td>
                     <td>{teReoName}</td>
                     <td>
