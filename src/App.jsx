@@ -15,9 +15,10 @@ const App = () => {
   return (
     <>
       <a href="https://github.com/hsiurebgjk/birdwatching">Sources</a> |
-      <img src="ddg.png" width="16px" height="16px" /> DuckDuckGo |
-      <img src="wikipedia.ico" width="16px" height="16px" /> Wikipedia | 🌏
-      OpenStreetMap | <img src="nzbird.ico" width="16px" height="16px" /> New
+      <img src="ddg.png" width="16px" height="16px" alt="DuckDuckGo logo" /> DuckDuckGo |
+      <img src="wikipedia.ico" width="16px" height="16px" alt="Wikipedia logo" /> Wikipedia | 🌏
+      OpenStreetMap | <img src="nzbird.ico" width="16px" height="16px" alt="New
+      Zealand Birds Online Logo" /> New
       Zealand Birds Online
       <hr />
       <table>
