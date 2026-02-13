@@ -9,7 +9,7 @@ const NzBirdOnline = ({ name, nzBirdName }) => {
       href={`https://www.nzbirdsonline.org.nz/species/${nzBirdName || name}`}
       target="_blank"
     >
-      <img src="nzbird.ico" width="16px" height="16px" alt="New
+      <img src="nzbird.ico" className="icon" alt="New
       Zealand Birds Online Logo" />
     </a>
   );

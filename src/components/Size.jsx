@@ -7,7 +7,7 @@ function simplify(value, unit) {
 }
 
 const Size = ({ value, unit, suffixes = [] }) => {
-  if (!typeof value === 'object' || !typeof value.type === 'string') {
+  if (typeof value !== 'object' || typeof value.type !== 'string') {
     return <></>;
   }
 

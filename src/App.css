@@ -31,3 +31,8 @@ a {
   border-bottom: 1px dotted #000;
   text-decoration: none;
 }
+
+.icon{
+  width: 25px;
+  height: 25px;
+}
