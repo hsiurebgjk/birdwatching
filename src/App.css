@@ -14,8 +14,12 @@ tr:nth-child(even) {
   background-color: #f2f2f2;
 }
 
-tr:hover {
+tr:hover, tr.newBird:hover {
   background-color: #ddd;
+}
+
+tr.newBird {
+  background-color: #ec9797;
 }
 
 th {

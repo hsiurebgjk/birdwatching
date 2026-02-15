@@ -43,6 +43,7 @@ const App = () => {
             birds.map(
               (
                 {
+                  isNew,
                   name,
                   nzBirdName,
                   scientificName,
@@ -58,7 +59,7 @@ const App = () => {
                 index,
               ) => {
                 return (
-                  <tr key={index}>
+                  <tr key={index} className={ isNew ? "newBird" : ""}>
                     <td>
                       <DuckLink name={name} />
                       <br />

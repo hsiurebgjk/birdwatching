@@ -442,6 +442,6 @@
     "location": "Puketutu Island",
     "rating": 1,
     "comment": "A small beak",
-    "new": true
+    "isNew": true
   }
 ]
