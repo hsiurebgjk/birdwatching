@@ -309,6 +309,36 @@
     }
   },
   {
+    "name": "Little Shag",
+    "scientificName": "Phalacrocorax melanoleus",
+    "teReoName": "Kawaupaka",
+    "origin": "Native",
+    "rarity": "Common",
+    "size": {
+      "type": "value",
+      "value": 56
+    },
+    "weight": {
+      "type": "value",
+      "value": 700
+    }
+  },
+  {
+    "name": "Little Black Shag",
+    "scientificName": "Phalacrocorax sulcirostris",
+    "teReoName": "Kawau tūī",
+    "origin": "Native",
+    "rarity": "Locally common",
+    "size": {
+      "type": "value",
+      "value": 61
+    },
+    "weight": {
+      "type": "value",
+      "value": 800
+    }
+  },
+  {
     "name": "White-Faced Heron",
     "scientificName": "Egretta novaehollandiae",
     "teReoName": "Matuku moana",

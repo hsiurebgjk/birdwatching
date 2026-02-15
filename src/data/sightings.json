@@ -436,5 +436,12 @@
     "location": "Ambury Regional Park",
     "rating": 1,
     "comment": "Introduced, not established"
+  },
+  {
+    "name": "Little Shag",
+    "location": "Puketutu Island",
+    "rating": 1,
+    "comment": "A small beak",
+    "new": true
   }
 ]
