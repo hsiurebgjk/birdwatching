@@ -12,10 +12,11 @@ function useBirdData() {
         ...(Sightings.find((x) => x.name === bird.name) ?? { rating: 0 }),
       };
     });
-    
-    
 
-    setBirds([...combined.filter(bird => bird.isNew), ...combined.filter(bird => !bird.isNew)]);
+    setBirds([
+      ...combined.filter((bird) => bird.isNew),
+      ...combined.filter((bird) => !bird.isNew),
+    ]);
   }, []);
 
   return {

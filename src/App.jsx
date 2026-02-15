@@ -16,10 +16,15 @@ const App = () => {
     <>
       <a href="https://github.com/hsiurebgjk/birdwatching">Sources</a> |
       <img src="ddg.png" className="icon" alt="DuckDuckGo logo" /> DuckDuckGo |
-      <img src="wikipedia.ico" className="icon" alt="Wikipedia logo" /> Wikipedia | 🌏
-      OpenStreetMap | <img src="nzbird.ico" className="icon" alt="New
-      Zealand Birds Online Logo" /> New
-      Zealand Birds Online
+      <img src="wikipedia.ico" className="icon" alt="Wikipedia logo" />{' '}
+      Wikipedia | 🌏 OpenStreetMap |{' '}
+      <img
+        src="nzbird.ico"
+        className="icon"
+        alt="New
+      Zealand Birds Online Logo"
+      />{' '}
+      New Zealand Birds Online
       <hr />
       <table>
         <thead>
@@ -59,7 +64,7 @@ const App = () => {
                 index,
               ) => {
                 return (
-                  <tr key={index} className={ isNew ? "newBird" : ""}>
+                  <tr key={index} className={isNew ? 'newBird' : ''}>
                     <td>
                       <DuckLink name={name} />
                       <br />

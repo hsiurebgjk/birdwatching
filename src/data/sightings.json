@@ -69,7 +69,8 @@
     "name": "New Zealand Dabchick",
     "location": "Puketutu Island",
     "rating": 2,
-    "comment": "Super small and good looking"
+    "comment": "Super small and good looking",
+    "isNew": true
   },
   {
     "name": "Australasian Gannet",
